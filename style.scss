@@ -5,7 +5,11 @@ $colorg:darken($background,70%);
 
 body{
     font-family:roboto condensed;
-    background:$background;
+   /* background:$background; */
+}
+
+.testbackground{
+    background:"img.img/genderalbackground.pgn"
 }
 
 /*
@@ -19,6 +23,7 @@ no-gutter {
 .meredith{
     color:$colorg;
     background:transparent;
+    text-align:right;
 }
 
 .ganz{

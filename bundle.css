@@ -1,6 +1,9 @@
 body {
   font-family: roboto condensed;
-  background: #f0f0f0; }
+  /* background:$background; */ }
+
+.testbackground {
+  background: "img.img/genderalbackground.pgn"; }
 
 /*
 no-gutter {
@@ -11,7 +14,8 @@ no-gutter {
 }*/
 .meredith {
   color: #3e3e3e;
-  background: transparent; }
+  background: transparent;
+  text-align: right; }
 
 .ganz {
   color: #3e3e3e;
