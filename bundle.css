@@ -22,8 +22,11 @@ no-gutter {
   background: transparent; }
 
 .left-side {
-  background: #f0f0f0;
+  /* background:$background; */
   color: #14346c; }
+
+.ride-side {
+  padding: 500px; }
 
 .paddingcol {
   padding: 50px; }
