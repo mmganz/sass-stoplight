@@ -23,3 +23,7 @@ no-gutter {
 
 .add-space {
   margin: 10px; }
+
+.card-text {
+  text-align: center;
+  color: #14346c; }
