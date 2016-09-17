@@ -9,15 +9,13 @@ no-gutter {
   padding-left:0px;
   padding-right:0px;
 }*/
+.name {
+  color: #3e3e3e;
+  background: transparent; }
+
 .left-side {
   background: #f0f0f0;
   color: #14346c; }
-
-.meredith {
-  color: #3e3e3e; }
-
-.ganz {
-  color: #3e3e3e; }
 
 .paddingcol {
   padding: 50px; }
