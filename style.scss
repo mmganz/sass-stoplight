@@ -1,6 +1,7 @@
 $padding: 6px;
 $background:#f0f0f0;
-$color:#14346c;
+$colorb:#14346c;
+$colorg:#cacaca;
 
 .no-gutter {
   margin-left: 0px;
@@ -15,6 +16,6 @@ $color:#14346c;
 }
 
 .meredith{
-  color:darken($background,20%)
+  color:$colorg;
 
 }
