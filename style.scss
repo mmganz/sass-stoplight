@@ -1,22 +1,21 @@
-.pole{
-    margin: 0 auto;
-    height: 80px;
-    width: 40px;
+$padding: 6px;
+$background:#f0f0f0;
+$color:#14346c;
+
+
+
+
+.no-gutter {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left:0px;
+  padding-right:0px;
 }
 
-.traffic-lights-container{
-    .light{
-        .red:hover{
-            background-color:red;
-            box-shadow: 0px 0px 150px red;
-            }
-          .green{
-              background: pink;
-              &:hover{
-                  background-color: green;
-                  box-shadow: 0px 0px 
+$background:#f0f0f0;
+$color:#14346c;
 
-              }
-          }  
-    }
-}
+.left-side{
+    $background;
+    $color;}
+    

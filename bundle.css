@@ -1,0 +1,15 @@
+.pole {
+  margin: 0 auto;
+  height: 80px;
+  width: 40px;
+  background: #3c3c3c; }
+
+.traffic-lights-container .light .red:hover {
+  background-color: red;
+  box-shadow: 0px 0px 150px red; }
+
+.traffic-lights-container .light .green {
+  background: #44ff00; }
+  .traffic-lights-container .light .green:hover {
+    background-color: #44ff00;
+    box-shadow: 0px 0px; }
