@@ -1,3 +1,6 @@
+body {
+  font-family: roboto condensed; }
+
 .no-gutter {
   margin-left: 0px;
   margin-right: 0px;
@@ -13,6 +16,3 @@
 
 .ganz {
   color: #3e3e3e; }
-
-.projects {
-  outline: red; }
