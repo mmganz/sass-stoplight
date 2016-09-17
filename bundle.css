@@ -25,7 +25,8 @@ no-gutter {
   margin: 10px; }
   .add-space .projects {
     background: #3e3e3e;
-    color: #14346c; }
+    color: #14346c;
+    text-align: center; }
 
 .card-text {
   text-align: center;
@@ -33,5 +34,5 @@ no-gutter {
 
 .footer {
   background: #14346c;
-  background: #3e3e3e;
+  background: #f0f0f0;
   text-align: center; }
