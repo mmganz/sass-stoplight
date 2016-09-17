@@ -34,7 +34,12 @@ no-gutter {
   text-align: center;
   color: #14346c; }
 
-.footer {
+.resume {
   background: #14346c;
   color: #f0f0f0;
+  text-align: center; }
+
+.footer {
+  background: #f0f0f0;
+  color: #14346c;
   text-align: center; }
