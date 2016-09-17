@@ -27,7 +27,8 @@ no-gutter {
 
 .projects {
   background: #f0f0f0;
-  color: #14346c; }
+  color: #14346c;
+  text-align: center; }
 
 .card-text {
   text-align: center;
