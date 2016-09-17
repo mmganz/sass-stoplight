@@ -13,3 +13,8 @@ $color:#14346c;
     background:$background;
     color:$color;
 }
+
+.meredith{
+    darken($background, 30%);
+
+}
