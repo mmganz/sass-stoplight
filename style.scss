@@ -20,5 +20,9 @@ $colorg:darken($background,70%);
 }
 
 .ganz{
-    color:$background;
+    color:$colorg;
 }   
+
+.projects{
+    outline:red;
+}
