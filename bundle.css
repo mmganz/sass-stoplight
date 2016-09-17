@@ -1,5 +1,6 @@
 body {
-  font-family: roboto condensed; }
+  font-family: roboto condensed;
+  background: #f0f0f0; }
 
 /*
 no-gutter {
@@ -23,10 +24,10 @@ no-gutter {
 
 .add-space {
   margin: 10px; }
-  .add-space .projects {
-    background: #f0f0f0;
-    color: #14346c;
-    text-align: center; }
+
+.projects {
+  background: #f0f0f0;
+  color: #14346c; }
 
 .card-text {
   text-align: center;
@@ -34,5 +35,5 @@ no-gutter {
 
 .footer {
   background: #14346c;
-  background: #f0f0f0;
+  color: #f0f0f0;
   text-align: center; }

@@ -5,6 +5,7 @@ $colorg:darken($background,70%);
 
 body{
     font-family:roboto condensed;
+    background:$background;
 }
 
 /*
@@ -36,6 +37,7 @@ no-gutter {
 
 .add-space{
     margin:10px;
+}
 
 .projects{
     background:$background;
@@ -49,6 +51,6 @@ no-gutter {
 
 .footer{
     background:$colorb;
-    background:$background;
+    color:$background;
     text-align:center;
-}
+    }
