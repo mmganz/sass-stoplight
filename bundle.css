@@ -30,3 +30,8 @@ no-gutter {
 .card-text {
   text-align: center;
   color: #14346c; }
+
+.footer {
+  background: #14346c;
+  background: #3e3e3e;
+  text-align: center; }
