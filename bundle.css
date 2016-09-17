@@ -3,7 +3,7 @@ body {
   /* background:$background; */ }
 
 .testbackground {
-  background: "img.img/generalbackground.jpg"; }
+  background-image: url("img.img/generalbackground.jpg"); }
 
 /*
 no-gutter {
