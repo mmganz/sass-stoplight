@@ -48,6 +48,9 @@ a.yes:hover {
 .add-space {
   margin: 10px; }
 
+.flex-container {
+  justify-content: space-around; }
+
 .projects-add-space {
   padding: 15px;
   margin-top: 10px; }
