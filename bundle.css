@@ -141,10 +141,12 @@ a.yes:hover {
   text-align: center; }
 
 .resumes-add-space {
-  padding: 30px;
-  padding-bottom: 20px; }
+  padding: 60px; }
 
 .footer {
   background: #f0f0f0;
   color: #14346c;
   text-align: center; }
+
+.about-add-space {
+  padding: 40px; }
