@@ -9,6 +9,10 @@ no-gutter {
   padding-left:0px;
   padding-right:0px;
 }*/
+.project-add-space {
+  padding: 5px;
+  margin-top: 20px; }
+
 h3.name {
   font-size: 36px; }
 
