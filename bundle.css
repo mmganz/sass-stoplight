@@ -16,6 +16,9 @@ no-gutter {
 .project-add-space {
   margin-top: 100px; }
 
+.resume-add-space {
+  margin-top: 20px; }
+
 .info-add-space {
   margin-top: 20px;
   font-size: 16px; }
@@ -40,7 +43,7 @@ a.yes:hover {
   margin: 10px; }
 
 .projects-add-space {
-  margin-top: 10px; }
+  margin-top: 50px; }
 
 .projects {
   background: #f0f0f0;
@@ -126,6 +129,7 @@ a.yes:hover {
   transition-delay: .2s; }
 
 .p-1 {
+  margin-top: 20px;
   width: 90%; }
 
 .p-2 {
@@ -138,7 +142,15 @@ a.yes:hover {
   color: #f0f0f0;
   text-align: center; }
 
+.resumes-add-space {
+  margin-top: 40px;
+  margin-bottom: 40px; }
+
 .footer {
   background: #f0f0f0;
   color: #14346c;
   text-align: center; }
+
+.about-add-space {
+  margin-top: 40px;
+  margin-bottom: 40px; }
