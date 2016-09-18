@@ -48,10 +48,6 @@ a.yes:hover {
 .add-space {
   margin: 10px; }
 
-.flex-container {
-  display: flex;
-  justify-content: space-around; }
-
 .projects-add-space {
   padding: 15px;
   margin-top: 10px; }
@@ -138,6 +134,9 @@ a.yes:hover {
 .hovereffect:hover a.info {
   -webkit-transition-delay: .2s;
   transition-delay: .2s; }
+
+.p-row-2 {
+  padding: 5px; }
 
 .resume {
   background: #14346c;
