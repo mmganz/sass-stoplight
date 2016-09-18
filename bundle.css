@@ -49,6 +49,7 @@ a.yes:hover {
   margin: 10px; }
 
 .flex-container {
+  display: flex;
   justify-content: space-around; }
 
 .projects-add-space {
