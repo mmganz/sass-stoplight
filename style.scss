@@ -2,9 +2,6 @@ $background:#f0f0f0;
 $colorb:#14346c;
 $colorg:darken($background,70%);
 
-* {
-    outline:red;
-}
 
 body{
     font-family:roboto condensed;
@@ -22,14 +19,19 @@ no-gutter {
   padding-right:0px;
 }*/
 
+/*
 .name-add-space{
     margin-top:30px;
 }
+*/
 
+/*
 .project-add-space{
     margin-top:100px;
 }
+*/
 
+/*
 
 .resume-add-space{
     margin-top:40px;
@@ -37,10 +39,15 @@ no-gutter {
     
 }
 
+*/
+
+/*
 .info-add-space{
     margin-top:20px;
     font-size:16px;
 }
+*/
+
 
 .name{
     color:$colorb;
@@ -63,16 +70,21 @@ a.yes:hover{
     font-size:110%;
 }
 
+/*
 
 .add-space{
     margin:10px;
 }
+*/
 
+/*
 
 .projects-add-space{
   
     margin-top: 50px;
 }
+
+*/
 
 .projects{
     background:$background;
@@ -168,10 +180,16 @@ transform:translatey(0);
 transition-delay:.2s;
 }
 
+/*
+
 .p-1{
     margin-top:20px;
     width:90%;
 }
+
+*/
+
+/*
 
 .p-2{
     width:90%;
@@ -179,6 +197,7 @@ transition-delay:.2s;
     margin-bottom:20px;
 }
 
+*/
 
 .resume{
     background:$colorb;
@@ -186,22 +205,33 @@ transition-delay:.2s;
     text-align:center;
 }
 
+/*
+
 .resumes-add-space{
     margin-top:40px;
   
 }
 
+*/
+
+/*
+
 .skillz{
     margin-bottom:20px;
 }
+
+*/
 
 .footer{
     background:$background;
     color:$colorb;
     text-align:center;
-    margin-top:50px;
+
+    /*
+    margin-top:50px; */
     }
 
+/*
 .about-add-space{
-    margin-bottom: 40px; 
-}
+    margin-bottom: 40px;
+}*/
