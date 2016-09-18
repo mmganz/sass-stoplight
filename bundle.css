@@ -117,10 +117,6 @@ a.yes:hover {
   -webkit-transition-delay: .2s;
   transition-delay: .2s; }
 
-.card-text {
-  text-align: center;
-  color: #14346c; }
-
 .resume {
   background: #14346c;
   color: #f0f0f0;
