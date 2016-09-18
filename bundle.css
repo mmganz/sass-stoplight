@@ -9,10 +9,12 @@ no-gutter {
   padding-left:0px;
   padding-right:0px;
 }*/
+h3 {
+  font-size: 36px; }
+
 .name {
   color: #14346c;
-  background: transparent;
-  font-size: 130%; }
+  background: transparent; }
 
 .left-side {
   background: #f0f0f0;
