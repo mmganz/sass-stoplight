@@ -18,7 +18,7 @@ no-gutter {
   padding-right:0px;
 }*/
 
-h3{
+h3.name{
     font-size:36px;
 }
 
@@ -69,6 +69,8 @@ a.yes:hover{
     color:$background;
     text-align:center;
 }
+
+
 
 .footer{
     background:$background;
