@@ -1,7 +1,8 @@
 body {
   font-family: roboto condensed;
   background: #f0f0f0;
-  font-size: 18px; }
+  font-size: 18px;
+  outline: red; }
 
 /*
 no-gutter {
