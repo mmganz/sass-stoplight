@@ -21,7 +21,8 @@ no-gutter {
   background: #f0f0f0;
   color: #14346c; }
 
-.lprojects {
+a {
+  color: #14346c;
   text-decoration: none; }
 
 .paddingcol {
