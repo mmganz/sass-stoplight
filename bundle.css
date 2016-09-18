@@ -13,9 +13,8 @@ no-gutter {
   color: #14346c;
   background: transparent; }
 
-.meredith {
-  color: #14346c;
-  background: transparent; }
+.name:hover {
+  font-size: 120%; }
 
 .left-side {
   background: #f0f0f0;
