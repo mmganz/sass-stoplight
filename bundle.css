@@ -143,14 +143,13 @@ a.yes:hover {
   text-align: center; }
 
 .resumes-add-space {
-  margin-top: 40px;
-  margin-bottom: 100px; }
+  margin-top: 40px; }
 
 .footer {
   background: #f0f0f0;
   color: #14346c;
-  text-align: center; }
+  text-align: center;
+  margin-top: 50px; }
 
 .about-add-space {
-  margin-top: 40px;
   margin-bottom: 40px; }
