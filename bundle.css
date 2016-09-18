@@ -48,6 +48,10 @@ a.yes:hover {
   color: #f0f0f0;
   text-align: center; }
 
+svg:hover {
+  width: 19;
+  height: 19; }
+
 .footer {
   background: #f0f0f0;
   color: #14346c;
