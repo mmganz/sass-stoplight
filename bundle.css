@@ -136,16 +136,10 @@ a.yes:hover {
   transition-delay: .2s; }
 
 .p-1 {
-  width: 90%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  width: 90%; }
 
 .p-2 {
-  width: 90%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  width: 90%; }
 
 .resume {
   background: #14346c;
