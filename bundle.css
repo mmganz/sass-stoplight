@@ -140,6 +140,9 @@ a.yes:hover {
   color: #f0f0f0;
   text-align: center; }
 
+.resumes-add-space {
+  padding: 30px; }
+
 .footer {
   background: #f0f0f0;
   color: #14346c;
