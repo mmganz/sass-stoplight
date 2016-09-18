@@ -141,7 +141,8 @@ a.yes:hover {
   text-align: center; }
 
 .resumes-add-space {
-  padding: 30px; }
+  padding: 30px;
+  padding-bottom: 20px; }
 
 .footer {
   background: #f0f0f0;
