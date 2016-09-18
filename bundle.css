@@ -135,6 +135,9 @@ a.yes:hover {
   -webkit-transition-delay: .2s;
   transition-delay: .2s; }
 
+.p-row-1 {
+  padding: 5px; }
+
 .p-row-2 {
   padding: 5px; }
 
