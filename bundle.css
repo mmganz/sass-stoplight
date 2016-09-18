@@ -12,11 +12,12 @@ no-gutter {
 .meredith {
   color: #3e3e3e;
   background: transparent;
-  text-align: right; }
+  text-align: center; }
 
 .ganz {
   color: #3e3e3e;
-  background: transparent; }
+  background: transparent;
+  text-align: center; }
 
 .left-side {
   /* background:$background; */
