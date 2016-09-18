@@ -11,10 +11,8 @@ no-gutter {
 }*/
 .name {
   color: #14346c;
-  background: transparent; }
-
-.name:hover {
-  font-size: 120%; }
+  background: transparent;
+  font-size: 130%; }
 
 .left-side {
   background: #f0f0f0;
