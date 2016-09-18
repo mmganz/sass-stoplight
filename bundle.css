@@ -16,6 +16,10 @@ no-gutter {
 .resume-add-space {
   padding: 10px; }
 
+.info-add-space {
+  margin-top: 20px;
+  padding: 5px; }
+
 h3.name {
   font-size: 36px; }
 
