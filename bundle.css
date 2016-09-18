@@ -14,9 +14,9 @@ no-gutter {
   padding: 20px;
   margin-top: 30px; }
 
-.projects-add-space {
+.project-add-space {
   padding: 15px;
-  margin-top: 150px; }
+  margin-top: 100px; }
 
 .resume-add-space {
   padding: 10px; }
@@ -48,8 +48,9 @@ a.yes:hover {
 .add-space {
   margin: 10px; }
 
-.project-add-space {
-  padding: 20px; }
+.projects-add-space {
+  padding: 15px;
+  margin-top: 10px; }
 
 .projects {
   background: #f0f0f0;
