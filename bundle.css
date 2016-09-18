@@ -1,9 +1,6 @@
 body {
   font-family: roboto condensed;
-  /* background:$background; */ }
-
-.testbackground {
-  background-image: url("img.img/generalbackground.jpg"); }
+  background: #f0f0f0; }
 
 /*
 no-gutter {

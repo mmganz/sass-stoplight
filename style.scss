@@ -5,12 +5,10 @@ $colorg:darken($background,70%);
 
 body{
     font-family:roboto condensed;
-   /* background:$background; */
+    background:$background;
 }
 
-.testbackground{
-    background-image:url("img.img/generalbackground.jpg");
-}
+
 
 /*
 no-gutter {
