@@ -139,7 +139,8 @@ a.yes:hover {
   width: 90%; }
 
 .p-2 {
-  width: 90%; }
+  width: 90%;
+  margin-top: 15px; }
 
 .resume {
   background: #14346c;
