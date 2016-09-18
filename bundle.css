@@ -1,8 +1,10 @@
+* {
+  outline: red; }
+
 body {
   font-family: roboto condensed;
   background: #f0f0f0;
-  font-size: 18px;
-  outline: red; }
+  font-size: 18px; }
 
 /*
 no-gutter {

@@ -2,11 +2,14 @@ $background:#f0f0f0;
 $colorb:#14346c;
 $colorg:darken($background,70%);
 
+* {
+    outline:red;
+}
+
 body{
     font-family:roboto condensed;
     background:$background;
     font-size:18px;
-    outline:red;
 }
 
 
