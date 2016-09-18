@@ -18,11 +18,11 @@ no-gutter {
   background: transparent; }
 
 .left-side {
-  /* background:$background; */
+  background: #f0f0f0;
   color: #14346c; }
 
-.ride-side {
-  padding: 500px; }
+.lprojects {
+  text-decoration: none; }
 
 .paddingcol {
   padding: 50px; }
