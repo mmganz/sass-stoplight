@@ -25,6 +25,9 @@ a {
   color: #14346c;
   text-decoration: none; }
 
+a:hover {
+  text-decoration: none; }
+
 .paddingcol {
   padding: 50px; }
 
