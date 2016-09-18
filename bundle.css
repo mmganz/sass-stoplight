@@ -9,6 +9,9 @@ no-gutter {
   padding-left:0px;
   padding-right:0px;
 }*/
+.name-add-space {
+  margin: 20px; }
+
 .project-add-space {
   padding: 15px;
   margin-top: 150px; }
@@ -19,9 +22,6 @@ no-gutter {
 .info-add-space {
   margin-top: 20px;
   padding: 5px; }
-
-h3.name {
-  font-size: 36px; }
 
 .name {
   color: #14346c;
