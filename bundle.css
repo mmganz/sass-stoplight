@@ -3,6 +3,9 @@ body {
   background: #f0f0f0;
   font-size: 18px; }
 
+.top-section {
+  width: 100%; }
+
 .row {
   max-width: 100%; }
 
