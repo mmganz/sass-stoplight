@@ -3,7 +3,7 @@ body {
   background: #f0f0f0;
   font-size: 18px; }
 
-.top-section {
+.row {
   max-width: 100%; }
 
 .name-add-space {
@@ -133,9 +133,6 @@ a.yes:hover {
   width: 90%;
   margin-top: 15px;
   margin-bottom: 20px; }
-
-.resume-section {
-  max-width: 100%; }
 
 .resume {
   background: #14346c;
