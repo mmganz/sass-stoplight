@@ -3,11 +3,8 @@ body {
   background: #f0f0f0;
   font-size: 18px; }
 
-.no-gutter {
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-left: 0px;
-  padding-right: 0px; }
+.top-section {
+  max-width: 100%; }
 
 .name-add-space {
   margin-top: 30px; }
@@ -136,6 +133,9 @@ a.yes:hover {
   width: 90%;
   margin-top: 15px;
   margin-bottom: 20px; }
+
+.resume-section {
+  max-width: 100%; }
 
 .resume {
   background: #14346c;
